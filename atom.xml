@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Annsiyu.github.io</id>
     <title>Ansiyu_Blogs</title>
-    <updated>2021-10-29T12:26:07.515Z</updated>
+    <updated>2021-10-29T13:00:29.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Annsiyu.github.io"/>
     <link rel="self" href="https://Annsiyu.github.io/atom.xml"/>
@@ -11,12 +11,30 @@
     <icon>https://Annsiyu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Ansiyu_Blogs</rights>
     <entry>
-        <title type="html"><![CDATA[1029日记]]></title>
-        <id>https://Annsiyu.github.io/post/1029-ri-ji/</id>
-        <link href="https://Annsiyu.github.io/post/1029-ri-ji/">
+        <title type="html"><![CDATA[基于Ubuntu18.04进行水下航行器仿真开发(ROS+UUVSim+Gazebo)]]></title>
+        <id>https://Annsiyu.github.io/post/ji-yu-ubuntu1804-jin-xing-shui-xia-hang-xing-qi-fang-zhen-kai-fa-rosuuvsimgazebo/</id>
+        <link href="https://Annsiyu.github.io/post/ji-yu-ubuntu1804-jin-xing-shui-xia-hang-xing-qi-fang-zhen-kai-fa-rosuuvsimgazebo/">
         </link>
-        <updated>2021-10-29T12:24:51.000Z</updated>
-        <content type="html"><![CDATA[<p>生活太难了，真的。</p>
+        <updated>2021-10-29T12:55:05.000Z</updated>
+        <content type="html"><![CDATA[<p>1.本文的所有环境全是在英伟达的Jetson-Xavier平台下开发完成的，这个平台有很多优点，但是缺点也很明显，最主要的缺点就是其为ARM架构，很多软件都不能兼容ARM架构，很烦。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[基于Ubuntu16.04进行水面航行器仿真开发(ROS+USVSim+Gazebo)]]></title>
+        <id>https://Annsiyu.github.io/post/ji-yu-ubuntu1604-jin-xing-shui-mian-hang-xing-qi-fang-zhen-kai-fa-rosusvsimgazebo/</id>
+        <link href="https://Annsiyu.github.io/post/ji-yu-ubuntu1604-jin-xing-shui-mian-hang-xing-qi-fang-zhen-kai-fa-rosusvsimgazebo/">
+        </link>
+        <updated>2021-10-29T12:50:52.000Z</updated>
+        <content type="html"><![CDATA[<p>这篇文章是我之前工作的总结，虽然最后确定的水下航行器方向，但是在确定方向之前还是折腾了很久这一整套环境的安装，在之后也和学弟多次讨论过在安装系统时容易出现的各种问题，现在决定将整个步骤记录下来，主要为后来做无人艇仿真的学弟提供可靠的安装教程，也算是给这件事画了个句号。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在Windows系统上安装Ubuntu16.04虚拟机操作说明]]></title>
+        <id>https://Annsiyu.github.io/post/zai-windows-xi-tong-shang-an-zhuang-ubuntu1604-xu-ni-ji-cao-zuo-shuo-ming/</id>
+        <link href="https://Annsiyu.github.io/post/zai-windows-xi-tong-shang-an-zhuang-ubuntu1604-xu-ni-ji-cao-zuo-shuo-ming/">
+        </link>
+        <updated>2021-10-29T12:39:58.000Z</updated>
+        <content type="html"><![CDATA[<p>本文写于2021年10月29日，是我的第一篇博客，</p>
 ]]></content>
     </entry>
     <entry>
